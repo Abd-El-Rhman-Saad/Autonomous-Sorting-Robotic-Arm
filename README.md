@@ -15,7 +15,7 @@
 > **Course & Specialization:** Robotics (Course Code: EEP 433) — Department of Electrical Engineering  
 > **Academic Supervisor:** Prof. Dr. Mohammed El-Habrouk  
 > **Project Title:** *SortArm-6DOF: Automated Conveyor Sorting Cell Using a 6-DOF Articulated Robotic Manipulator*  
-> **Collaborative Engineering Team (Team 5):** Abd El-Rhman Saad, Mariem Mamdouh, Rowan Tamer, Nada Mahmoud, Marina Said, Asmaa Galal, Razan Ramzy, Tasneem El-Shandidi  
+> **Collaborative Engineering Team (Team 5):** Abd El-Rhman M. Saad, Tasneem El-Shandidi , Mariem Mamdouh, Rowan Tamer, Nada Mahmoud, Marina Said, Asmaa Galal, Razan Ramzy 
 > **Project Repository:** [Autonomous-Sorting-Robotic-Arm on GitHub](https://github.com/Abd-El-Rhman-Saad/Autonomous-Sorting-Robotic-Arm)
 
 ---
@@ -310,13 +310,13 @@ This project was developed within the academic curriculum of the **Department of
 - **Academic Year / Defense:** 2026
 - **Engineering Project Team (Team 5):**
   - **Abd El-Rhman Muhammad Saad Muhammad** (ID: 19017058)
+    - **Tasneem Alaa El-Shandidi** (ID: 21010396)
   - **Mariem Mamdouh Ibrahim** (ID: 21011335)
   - **Rowan Tamer Ismail** (ID: 21010537)
   - **Nada Mahmoud Youssef** (ID: 21011026)
   - **Marina Said Botros** (ID: 21011026)
   - **Asmaa Galal Ahmed** (ID: 19015429)
   - **Razan Ramzy Mohammed** (ID: 21010515)
-  - **Tasneem Alaa El-Shandidi** (ID: 21010396)
 
 ---
 
